@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Font Compat Demo</string>
+    <string name="fonts_xml"><u>https://github.com/android/platform_frameworks_base/blob/master/data/fonts/fonts.xml</u></string>
+    <string name="title_webview">Build-in fonts for WebViews</string>
+    <string name="title_native_views">Build-in fonts for normal TextViews</string>
+</resources>

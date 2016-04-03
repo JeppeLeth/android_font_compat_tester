@@ -1,0 +1,23 @@
+* {
+	margin: 0px;
+	padding: 0;
+	border: 0 none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+#wrapper {
+	color: #666;
+}
+
+html {
+	display: block;
+}
+
+body {  
+    background-color:transparent;
+}
+
+p {
+	margin-top: 15px;
+}
+

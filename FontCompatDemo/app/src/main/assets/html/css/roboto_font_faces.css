@@ -1,0 +1,151 @@
+/*
+ * Copyright (C) 2016 Jeppe Leth Nielsen, github.com/JeppeLeth
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+/* Platform Roboto fonts are found in https://github.com/android/platform_frameworks_base/blob/master/data/fonts/fonts.xml */
+@font-face {
+    font-family: "Roboto-Thin";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Roboto-ThinItalic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Roboto-Light";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Roboto-LightItalic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Roboto-Regular";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Roboto-Italic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Roboto-Medium";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Roboto-MediumItalic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Roboto-Black";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Roboto-BlackItalic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    src: local('sans-serif');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Roboto-BoldItalic";
+    src: local('sans-serif');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "RobotoCondensed-Light";
+    src: local('sans-serif-condensed');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "RobotoCondensed-LightItalic";
+    src: local('sans-serif-condensed');
+    font-style: italic;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "RobotoCondensed-Regular";
+    src: local('sans-serif-condensed');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RobotoCondensed-Italic";
+    src: local('sans-serif-condensed');
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "RobotoCondensed-Bold";
+    src: local('sans-serif-condensed');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "RobotoCondensed-BoldItalic";
+    src: local('sans-serif-condensed');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "NotoSerif-Regular";
+    src: local('serif');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSerif-Bold";
+    src: local('serif');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NotoSerif-Italic";
+    src: local('serif');
+    font-style: italic;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NotoSerif-BoldItalic";
+    src: local('serif');
+    font-style: italic;
+    font-weight: 700;
+}
